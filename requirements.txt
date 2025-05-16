@@ -1,0 +1,9 @@
+pyrogram
+requests
+http.server
+asyncio
+json
+logging
+threading
+os
+sys
