@@ -38,4 +38,4 @@ Ensure you have Python installed along with the following dependencies: ```pip i
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-Developed by [Kompelli Anurudh] - feel free to contribute or reach out for improvements!
+Developed by Kompelli Anurudh
